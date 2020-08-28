@@ -1,0 +1,73 @@
+.section-search input {
+    padding: 5px !important;
+    border-radius: 10px !important;
+    font-size: 18px !important;
+    color: brown !important;
+}
+
+nav,
+nav .nav-wrapper i,
+nav a.sidenav-trigger,
+nav a.sidenav-trigger i {
+    height: 76px;
+}
+
+.slider {
+    margin-bottom: 60px !important;
+}
+
+nav ul a {
+    font-size: 20px;
+}
+
+.slider .indicators .indicator-item.active {
+    background-color: brown;
+}
+
+.brand-logo {
+    font-family: "Roboto", "sans-serif";
+}
+
+.border-thick {
+    border: 2px double white !important;
+    margin: 5px;
+    height: 39px;
+    box-shadow: 1px 1.5px 1px 0.5px white !important;
+}
+
+.border-thick:hover {
+    background-color: white !important;
+    color: black;
+    box-shadow: 2px 3px 2px 0.5px black !important;
+}
+
+.jumbotron {
+    padding: 20px;
+}
+
+.big {
+    height: 450px;
+    width: 350px;
+}
+
+.lobster-caps {
+    font-family: "Lobster";
+    text-transform: capitalize;
+}
+
+
+/* .section {
+    margin-bottom: 10px;
+} */
+
+.section-follow .large {
+    margin: 5px 10px;
+}
+
+.section-footer {
+    padding: 5px;
+}
+
+.section-footer p {
+    font-size: 10px !important;
+}
